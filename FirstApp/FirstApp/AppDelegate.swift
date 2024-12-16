@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  NiceApp
+//  FirstApp
 //
-//  Created by uuyeong on 12/16/24.
+//  Created by uuyeong on 12/17/24.
 //
 
 import UIKit
